@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/textfield_search_right_selected_holo_dark">@drawable/frameworks_res_textfield_search_right_selected_holo_dark</item>
+    <item name="drawable/textfield_search_selected_holo_dark">@drawable/frameworks_res_textfield_search_selected_holo_dark</item>
+    <item name="drawable/textfield_search_right_selected_holo_dark">@drawable/frameworks_res_textfield_search_right_selected_holo_dark</item>
+</resource-redirections>

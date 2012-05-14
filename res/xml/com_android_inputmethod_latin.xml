@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/btn_keyboard_key_dark_active_holo">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_active_holo</item>
+    <item name="drawable/btn_keyboard_key_dark_normal_on_holo">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_normal_on_holo</item>
+    <item name="drawable/btn_keyboard_key_dark_pressed_holo">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_pressed_holo</item>
+    <item name="drawable/btn_keyboard_key_dark_pressed_off_holo">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_pressed_off_holo</item>
+    <item name="drawable/btn_keyboard_key_dark_pressed_on_holo">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_pressed_on_holo</item>
+    <item name="drawable/btn_keyboard_key_light_pressed_holo">@drawable/com_android_inputmethod_latin_btn_keyboard_key_light_pressed_holo</item>
+    <item name="drawable/btn_keyboard_key_popup_selected_holo">@drawable/com_android_inputmethod_latin_btn_keyboard_key_popup_selected_holo</item>
+    <item name="drawable/keyboard_key_feedback_background_holo">@drawable/com_android_inputmethod_latin_keyboard_key_feedback_background_holo</item>
+    <item name="drawable/keyboard_key_feedback_left_background_holo">@drawable/com_android_inputmethod_latin_keyboard_key_feedback_left_background_holo</item>
+    <item name="drawable/keyboard_key_feedback_left_more_background_holo">@drawable/com_android_inputmethod_latin_keyboard_key_feedback_left_more_background_holo</item>
+    <item name="drawable/keyboard_key_feedback_more_background_holo">@drawable/com_android_inputmethod_latin_keyboard_key_feedback_more_background_holo</item>
+    <item name="drawable/keyboard_key_feedback_right_background_holo">@drawable/com_android_inputmethod_latin_keyboard_key_feedback_right_background_holo</item>
+    <item name="drawable/keyboard_key_feedback_right_more_background_holo">@drawable/com_android_inputmethod_latin_keyboard_key_feedback_right_more_background_holo</item>
+    <item name="drawable/keyboard_popup_panel_background_holo">@drawable/com_android_inputmethod_latin_keyboard_popup_panel_background_holo</item>
+    <item name="drawable/sym_keyboard_space_led_holo">@drawable/com_android_inputmethod_latin_sym_keyboard_space_led_holo</item>
+</resource-redirections>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_settings_ind_mid_c_holo">@drawable/com_android_settings_appwidget_settings_ind_mid_c_holo</item>
+    <item name="drawable/appwidget_settings_ind_mid_l_holo">@drawable/com_android_settings_appwidget_settings_ind_mid_l_holo</item>
+    <item name="drawable/appwidget_settings_ind_mid_r_holo">@drawable/com_android_settings_appwidget_settings_ind_mid_r_holo</item>
+    <item name="drawable/appwidget_settings_ind_on_c_holo">@drawable/com_android_settings_appwidget_settings_ind_on_c_holo</item>
+    <item name="drawable/appwidget_settings_ind_on_l_holo">@drawable/com_android_settings_appwidget_settings_ind_on_l_holo</item>
+    <item name="drawable/appwidget_settings_ind_on_r_holo">@drawable/com_android_settings_appwidget_settings_ind_on_r_holo</item>
+    <item name="mipmap/ic_launcher_settings">@drawable/com_android_settings_ic_launcher_settings</item>
+</resource-redirections>

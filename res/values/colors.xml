@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="TUN_maincolor">#ffffffff</color>
+    <color name="TUN_maincolor_dark">#ffAFAFAF</color>
+    <color name="TUN_maincolor_bright">#ffffffff</color>
+</resources>

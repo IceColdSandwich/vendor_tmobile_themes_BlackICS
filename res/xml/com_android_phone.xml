@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/dial_num_0_no_plus_wht">@drawable/com_android_phone_dial_num_0_no_plus_wht</item>
+    <item name="drawable/dial_num_4_wht">@drawable/com_android_phone_dial_num_4_wht</item>
+    <item name="drawable/dial_num_8_wht">@drawable/com_android_phone_dial_num_8_wht</item>
+    <item name="drawable/dial_num_1_no_vm_wht">@drawable/com_android_phone_dial_num_1_no_vm_wht</item>
+    <item name="drawable/dial_num_5_wht">@drawable/com_android_phone_dial_num_5_wht</item>
+    <item name="drawable/dial_num_9_wht">@drawable/com_android_phone_dial_num_9_wht</item>
+    <item name="drawable/dial_num_2_wht">@drawable/com_android_phone_dial_num_2_wht</item>
+    <item name="drawable/dial_num_6_wht">@drawable/com_android_phone_dial_num_6_wht</item>
+    <item name="drawable/dial_num_3_wht">@drawable/com_android_phone_dial_num_3_wht</item>
+    <item name="drawable/dial_num_7_wht">@drawable/com_android_phone_dial_num_7_wht</item>
+</resource-redirections>
