@@ -4,5 +4,5 @@
     <item android:state_selected="true" android:drawable="@android:color/black" />
     <item android:state_selected="false" android:state_pressed="true" android:drawable="@android:color/transparent" />
     <item android:state_selected="false" android:drawable="@color/read_bgcolor" android:state_activated="false" />
-    <item android:drawable="@drawable/list_selector_background_selected" android:state_activated="true" />
+    <item android:drawable="@drawable/com_android_mms_list_selector_background_selected" android:state_activated="true" />
 </selector>
