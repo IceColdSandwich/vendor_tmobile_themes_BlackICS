@@ -27,7 +27,9 @@
     <item name="drawable/list_section_divider_holo_custom">@drawable/com_android_contacts_list_section_divider_holo_custom</item>
     <item name="mipmap/ic_launcher_phone">@mipmap/com_android_contacts_ic_launcher_phone</item>
     <item name="mipmap/ic_launcher_contacts">@mipmap/com_android_contacts_ic_launcher_contacts</item>
-    <item name="color/quickcontact_tab_indicator">@color/arcee_maincolor</item>
-    <item name="color/call_log_voicemail_highlight_color">@color/arcee_maincolor</item>
-    <item name="color/people_app_theme_color">@color/arcee_maincolor</item>
+    <item name="color/quickcontact_tab_indicator">@color/TUN_maincolor</item>
+    <item name="color/call_log_voicemail_highlight_color">@color/TUN_maincolor</item>
+    <item name="color/people_app_theme_color">@color/TUN_maincolor</item>
+	<item name="drawable/background_dial_holo_dark">@drawable/frameworks_res_background_holo_dark</item>
+	
 </resource-redirections>
