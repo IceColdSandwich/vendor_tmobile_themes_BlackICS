@@ -6,10 +6,15 @@
         android:name="android"
         android:resource="@xml/android"
         android:minSdkVersion="14" />
-
+		
     <package-redirections
         android:name="com.android.browser"
         android:resource="@xml/com_android_browser"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.google.android.gm"
+        android:resource="@xml/com_google_android_gm"
         android:minSdkVersion="14" />
 
     <package-redirections 

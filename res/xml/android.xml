@@ -3,7 +3,7 @@
     <item name="color/holo_blue_light">@color/TUN_maincolor</item>
     <item name="color/holo_blue_dark">@color/TUN_maincolor_dark</item>
     <item name="color/holo_blue_bright">@color/TUN_maincolor_bright</item>
-    <item name="drawable/background_holo_dark">@drawable/background_holo_dark</item>
+    <item name="drawable/background_holo_dark">@drawable/frameworks_res_background_holo_dark</item>
 	<item name="drawable/ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
 	<item name="drawable/ab_bottom_solid_inverse_holo">@drawable/frameworks_res_ab_bottom_solid_inverse_holo</item>
 	<item name="drawable/ab_bottom_solid_light_holo">@drawable/frameworks_res_ab_bottom_solid_light_holo</item>

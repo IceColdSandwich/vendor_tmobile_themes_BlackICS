@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+	<item name="drawable/list_section_divider_holo_custom">@drawable/com_android_contacts_list_section_divider_holo_custom</item>
+	<item name="drawable/tab_focused_bottom">@drawable/com_android_contacts_tab_focused_bottom</item>
+	<item name="drawable/tab_pressed_bottom">@drawable/com_android_contacts_tab_pressed_bottom</item>
+	<item name="drawable/tab_selected_bottom">@drawable/com_android_contacts_tab_selected_bottom</item>
+	<item name="drawable/tab_selected_focused_holo">@drawable/com_android_contacts_tab_selected_focused_holo</item>
+	<item name="drawable/tab_selected_holo">@drawable/com_android_contacts_tab_selected_holo</item>
+	<item name="drawable/tab_selected_pressed_holo">@drawable/com_android_contacts_tab_selected_pressed_holo</item>
+	<item name="drawable/tab_unselected_focused_holo">@drawable/com_android_contacts_tab_unselected_focused_holo</item>
+	<item name="drawable/tab_unselected_holo">@drawable/com_android_contacts_tab_unselected_holo</item>
+	<item name="drawable/tab_unselected_pressed_holo">@drawable/com_android_contacts_tab_unselected_pressed_holo</item>
     <item name="drawable/dial_num_0_wht">@drawable/com_android_contacts_dial_num_0_wht</item>
     <item name="drawable/dial_num_1_wht">@drawable/com_android_contacts_dial_num_1_wht</item>
     <item name="drawable/dial_num_2_wht">@drawable/com_android_contacts_dial_num_2_wht</item>
