@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/org_adwfreak_launcher_box_launcher_top_pressed">@drawable/org_adwfreak_launcher_box_launcher_top_pressed</item>
+	<item name="drawable/org_adwfreak_launcher_box_launcher_top_selected">@drawable/org_adwfreak_launcher_box_launcher_top_selected</item>
+	<item name="drawable/org_adwfreak_launcher_btn_search_dialog_voice_pressed">@drawable/org_adwfreak_launcher_btn_search_dialog_voice_pressed</item>
+	<item name="drawable/org_adwfreak_launcher_btn_search_dialog_voice_selected">@drawable/org_adwfreak_launcher_btn_search_dialog_voice_selected</item>
+	<item name="drawable/org_adwfreak_launcher_delete_handle_normal">@drawable/org_adwfreak_launcher_delete_handle_normal</item>
+	<item name="drawable/org_adwfreak_launcher_focused_application_background">@drawable/org_adwfreak_launcher_focused_application_background</item>
+	<item name="drawable/org_adwfreak_launcher_ic_launcher_add_folder">@drawable/org_adwfreak_launcher_ic_launcher_add_folder</item>
+	<item name="drawable/org_adwfreak_launcher_ic_launcher_application">@drawable/org_adwfreak_launcher_ic_launcher_application</item>
+	<item name="drawable/org_adwfreak_launcher_ic_launcher_appwidget">@drawable/org_adwfreak_launcher_ic_launcher_appwidget</item>
+	<item name="drawable/org_adwfreak_launcher_ic_launcher_folder">@drawable/org_adwfreak_launcher_ic_launcher_folder</item>
+	<item name="drawable/org_adwfreak_launcher_ic_launcher_folder_open">@drawable/org_adwfreak_launcher_ic_launcher_folder_open</item>
+	<item name="drawable/org_adwfreak_launcher_ic_launcher_home">@drawable/org_adwfreak_launcher_ic_launcher_home</item>
+	<item name="drawable/org_adwfreak_launcher_ic_launcher_shortcut">@drawable/org_adwfreak_launcher_ic_launcher_shortcut</item>
+	<item name="drawable/org_adwfreak_launcher_ic_launcher_wallpaper">@drawable/org_adwfreak_launcher_ic_launcher_wallpaper</item>
+	<item name="drawable/org_adwfreak_launcher_ic_search_widget">@drawable/org_adwfreak_launcher_ic_search_widget</item>
+	<item name="drawable/org_adwfreak_launcher_portal_ring_outer_holo">@drawable/org_adwfreak_launcher_portal_ring_outer_holo</item>
+	<item name="drawable/org_adwfreak_launcher_pressed_application_background">@drawable/org_adwfreak_launcher_pressed_application_background</item>
+	<item name="drawable/org_adwfreak_launcher_textfield_searchwidget_pressed">@drawable/org_adwfreak_launcher_textfield_searchwidget_pressed</item>
+	<item name="drawable/org_adwfreak_launcher_textfield_searchwidget_selected">@drawable/org_adwfreak_launcher_textfield_searchwidget_selected</item>
+</resource-redirections>

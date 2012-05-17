@@ -41,7 +41,13 @@
         android:name="com.android.email"
         android:resource="@xml/com_android_email"
         android:minSdkVersion="14" />
-
+		
+    <package-redirections 
+        android:name="com.google.android.apps.genie.geniewidget"
+        android:resource="@xml/com_google_android_apps_genie_geniewidget"
+        android:minSdkVersion="14" />
+		
+		
     <package-redirections
         android:name="com.android.inputmethod.latin"
         android:resource="@xml/com_android_inputmethod_latin"
@@ -85,6 +91,16 @@
     <package-redirections
         android:name="com.teslacoilsw.launcher"
         android:resource="@xml/com_teslacoilsw_launcher"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="org.adw.launcher"
+        android:resource="@xml/org_adw_launcher"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="org.adwfreak.launcher"
+        android:resource="@xml/org_adwfreak_launcher"
         android:minSdkVersion="14" />
 
     <package-redirections

@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Black" parent="@android:style/Theme" />
+    <style name="TextAppearance.StatusBar.Clock" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Date" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+	    <style name="TextAppearance.StatusBar.PhoneTicker" parent="@android:style/TextAppearance.StatusBar.Ticker">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+	<style name="Black" parent="@android:style/Theme" />
 </resources>

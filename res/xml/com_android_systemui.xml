@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+    <item name="drawable/notification_number_text_color">@drawable/notification_number_text_color</item>
+    <item name="drawable/notification_item_background_color">@drawable/notification_item_background_color</item>
+    <item name="drawable/notification_item_background_color_pressed">@drawable/notification_item_background_color_pressed</item>
+    <item name="drawable/status_bar_background">@drawable/status_bar_background</item>
+    <item name="drawable/status_bar_recents_background_solid">@drawable/status_bar_recents_background_solid</item>
+    <item name="drawable/status_bar_recents_app_thumbnail_background">@drawable/status_bar_recents_app_thumbnail_background</item>
+    <item name="drawable/status_bar_notification_row_background_color">@drawable/status_bar_notification_row_background_color</item>
+    <item name="drawable/notification_tracking_bg">@drawable/notification_tracking_bg</item>
+	<item name="drawable/ticker_background_color">@drawable/ticker_background_color</item>
+    <item name="drawable/recents_callout_line">@drawable/recents_callout_line</item>
+    <item name="drawable/notification_item_background_legacy_color">@drawable/notification_item_background_legacy_color</item>
+    <item name="drawable/btn_off">@drawable/btn_off</item>
+    <item name="drawable/btn_on">@drawable/btn_on</item>
+	<item name="style/TextAppearance.StatusBar.Clock">@style/TextAppearance.StatusBar.Clock</item>
+    <item name="style/TextAppearance.StatusBar.Date">@style/TextAppearance.StatusBar.Date</item>
+    <item name="style/TextAppearance.StatusBar.PhoneTicker">@style/TextAppearance.StatusBar.PhoneTicker</item>
     <item name="drawable/stat_sys_battery_0">@drawable/com_android_systemui_stat_sys_battery_0</item>
     <item name="drawable/stat_sys_battery_1">@drawable/com_android_systemui_stat_sys_battery_1</item>
     <item name="drawable/stat_sys_battery_2">@drawable/com_android_systemui_stat_sys_battery_2</item>

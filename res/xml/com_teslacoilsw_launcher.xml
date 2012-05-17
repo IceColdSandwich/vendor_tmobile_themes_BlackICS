@@ -16,6 +16,7 @@
  -->
  
 <resource-redirections>
+	<item name="color/holo_blue_light">@color/TUN_maincolor</item>
 	<item name="drawable/btn_cling_normal">@drawable/com_teslacoilsw_launcher_btn_cling_normal</item>
 	<item name="drawable/btn_cling_pressed">@drawable/com_teslacoilsw_launcher_btn_cling_pressed</item>
 	<item name="drawable/cling">@drawable/com_teslacoilsw_launcher_cling</item>

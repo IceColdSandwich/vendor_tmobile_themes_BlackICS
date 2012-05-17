@@ -3,9 +3,5 @@
     <color name="TUN_maincolor">#ffffffff</color>
     <color name="TUN_maincolor_dark">#ffAFAFAF</color>
     <color name="TUN_maincolor_bright">#ffffffff</color>
-    <color name="text_hairline">#ffcccccc</color>
-    <color name="list_background">#ff000000</color>
-    <color name="message_count_color">#66333333</color>
-    <color name="timestamp_color">#bfffffff</color>
-    <color name="unread_bgcolor">#ff1f4f60</color>
+	<color name="tab_bottom_border_active">#ffffffff</color>
 </resources>

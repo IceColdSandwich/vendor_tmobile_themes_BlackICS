@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="color/tab_bottom_border_active">@color/tab_bottom_border_active</item>
+	<item name="drawable/appwidget_bg_focused_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_bg_focused_holo</item>
+	<item name="drawable/appwidget_bg_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_bg_holo</item>
+	<item name="drawable/appwidget_bg_pressed_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_bg_pressed_holo</item>
+	<item name="drawable/appwidget_inner_focused_c_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_focused_c_holo</item>
+	<item name="drawable/appwidget_inner_focused_l_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_focused_l_holo</item>
+	<item name="drawable/appwidget_inner_focused_r_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_focused_r_holo</item>
+	<item name="drawable/appwidget_inner_pressed_c_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_c_holo</item>
+	<item name="drawable/appwidget_inner_pressed_l_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_l_holo</item>
+	<item name="drawable/appwidget_inner_pressed_r_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_r_holo</item>
+</resource-redirections>
