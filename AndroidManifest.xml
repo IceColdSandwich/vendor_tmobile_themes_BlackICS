@@ -29,7 +29,6 @@
         pluto:themeId="BlackICS"
         pluto:styleId="@style/Black"
         pluto:name="@string/theme_name"
-        pluto:icon="@drawable/icon"
         pluto:preview="@drawable/preview"
         pluto:author="@string/author"
         pluto:copyright="@string/copyright"
