@@ -13,6 +13,11 @@
         android:minSdkVersion="14" />
 		
 	<package-redirections
+        android:name="com.aokp.romcontrol"
+        android:resource="@xml/com_aokp_romcontrol"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
         android:name="com.google.android.gm"
         android:resource="@xml/com_google_android_gm"
         android:minSdkVersion="14" />

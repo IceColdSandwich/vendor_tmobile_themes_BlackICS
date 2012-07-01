@@ -7,4 +7,10 @@
     <item name="drawable/appwidget_settings_ind_on_l_holo">@drawable/com_android_settings_appwidget_settings_ind_on_l_holo</item>
     <item name="drawable/appwidget_settings_ind_on_r_holo">@drawable/com_android_settings_appwidget_settings_ind_on_r_holo</item>
     <item name="mipmap/ic_launcher_settings">@drawable/com_android_settings_ic_launcher_settings</item>
+	<item name="drawable/ic_power_system">@drawable/com_android_settings_ic_power_system</item>
+	<item name="drawable/ic_settings_bluetooth">@drawable/com_android_settings_ic_settings_bluetooth</item>
+	<item name="drawable/ic_settings_cell_standby">@drawable/com_android_settings_ic_settings_cell_standby</item>
+	<item name="drawable/ic_settings_phone_idle">@drawable/com_android_settings_ic_settings_phone_idle</item>
+	<item name="drawable/ic_settings_voice_calls">@drawable/com_android_settings_ic_settings_voice_calls</item>
+	<item name="drawable/ic_settings_wifi">@drawable/com_android_settings_ic_settings_wifi</item>
 </resource-redirections>
