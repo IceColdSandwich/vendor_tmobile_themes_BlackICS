@@ -18,9 +18,12 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
-    package="com.tmobile.theme.BlackICS"
-	android:icon="@drawable/icon"
-    android:hasCode="false">
+    package="com.TUN_SD.theme.BlackICS"
+    android:hasCode="false"
+    android:versionCode="1" android:versionName="666">
+
+    <application name="BlackICS" android:hasCode="false" android:icon="@drawable/icon" android:label="BlackICS">
+    </application>
 
     <!-- Make sure this theme APK only shows up on appropriate devices. -->
     <uses-feature android:name="com.tmobile.software.themes" />
