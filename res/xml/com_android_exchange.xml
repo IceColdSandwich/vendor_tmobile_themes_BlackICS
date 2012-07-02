@@ -16,9 +16,5 @@
  -->
  
 <resource-redirections>
-    <item name="mipmap/ic_launcher_calculator">@mipmap/com_android_calculator_ic_launcher_calculator</item>
-	<item name="drawable/btn_keyboard_key_dark_pressed_holo">@drawable/com_android_calculator_btn_keyboard_key_dark_pressed_holo</item>
-	<item name="drawable/calculator_input_field">@drawable/com_android_calculator_calculator_input_field</item>
-	<item name="drawable/btn_keyboard_key_light_pressed_holo">@drawable/com_android_calculator_btn_keyboard_key_light_pressed_holo</item>
-
+    <item name="mipmap/icon">@mipmap/com_android_email_ic_launcher_email</item>
 </resource-redirections>

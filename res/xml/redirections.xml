@@ -13,10 +13,44 @@
         android:minSdkVersion="14" />
 		
 	<package-redirections
+        android:name="com.android.providers.downloads.ui"
+        android:resource="@xml/com_android_providers_downloads_ui"
+        android:minSdkVersion="14" />	
+		
+	<package-redirections
+        android:name="com.android.providers.contacts"
+        android:resource="@xml/com_android_providers_contacts"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.android.providers.calendar"
+        android:resource="@xml/com_android_providers_calendar"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
         android:name="com.aokp.romcontrol"
         android:resource="@xml/com_aokp_romcontrol"
         android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.android.exchange"
+        android:resource="@xml/com_android_exchange"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.android.bluetooth"
+        android:resource="@xml/com_android_bluetooth"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.boombuler.system.appwidgetpicker"
+        android:resource="@xml/com_boombuler_system_appwidgetpicker"
+        android:minSdkVersion="14" />
 
+	<package-redirections
+        android:name="com.aokp.aokptips"
+        android:resource="@xml/com_aokp_aokptips"
+        android:minSdkVersion="14" />
 	<package-redirections
         android:name="com.android.musicfx"
         android:resource="@xml/com_android_musicfx"
@@ -28,7 +62,7 @@
         android:minSdkVersion="14" />
 
     <package-redirections 
-        android:name="com.android.calculator"
+        android:name="com.android.calculator2"
         android:resource="@xml/com_android_calculator"
         android:minSdkVersion="14" />
 		
