@@ -15,11 +15,10 @@
  # limitations under the License.
  -->
  
-    <resource-redirections>
-		<item name="mipmap/ic_launcher">@mipmap/com_aokp_romcontrol_ic_launcher</item>
-		<item name="drawable/paypal_donate">@drawable/com_aokp_romcontrol_paypal_donate</item>
-		<item name="drawable/toggle_layout_buttons">@drawable/com_aokp_romcontrol_toggle_layout_buttons</item>
-		<item name="drawable/toggle_layout_summary">@drawable/com_aokp_romcontrol_toggle_layout_summary</item>
-		<item name="drawable/toggle_layout_switches">@drawable/com_aokp_romcontrol_toggle_layout_switches</item>
-		<item name="drawable/twitter_bird">@drawable/com_aokp_romcontrol_twitter_bird</item>
-    </resource-redirections>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/com_android_musicfx_icon</item>
+	<item name="drawable/progress_vertical_primary_holo_dark">@drawable/com_android_musicfx_progress_vertical_primary_holo_dark</item>
+	<item name="drawable/progress_vertical_secondary_holo_dark">@drawable/com_android_musicfx_progress_vertical_secondary_holo_dark</item>
+	<item name="drawable/scrubber_vertical_primary_holo">@drawable/com_android_musicfx_scrubber_vertical_primary_holo</item>
+	<item name="drawable/scrubber_vertical_secondary_holo">@drawable/com_android_musicfx_scrubber_vertical_secondary_holo</item>
+</resource-redirections>

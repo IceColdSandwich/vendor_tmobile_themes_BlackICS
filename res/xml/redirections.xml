@@ -16,6 +16,11 @@
         android:name="com.aokp.romcontrol"
         android:resource="@xml/com_aokp_romcontrol"
         android:minSdkVersion="14" />
+
+	<package-redirections
+        android:name="com.android.musicfx"
+        android:resource="@xml/com_android_musicfx"
+        android:minSdkVersion="14" />
 		
 	<package-redirections
         android:name="com.google.android.gm"
@@ -26,10 +31,25 @@
         android:name="com.android.calculator"
         android:resource="@xml/com_android_calculator"
         android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.android.gallery"
+        android:resource="@xml/com_android_gallery"
+        android:minSdkVersion="14" />
 
     <package-redirections
         android:name="com.android.calendar"
         android:resource="@xml/com_android_calendar"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.bel.android.dspmanager"
+        android:resource="@xml/com_bel_android_dspmanager"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.android.camera"
+        android:resource="@xml/com_android_camera"
         android:minSdkVersion="14" />
 
     <package-redirections
