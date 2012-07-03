@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/ic_launcher_live_wallpaper">@drawable/com_android_wallpaper_livepicker_ic_launcher_live_wallpaper</item>
+</resource-redirections>

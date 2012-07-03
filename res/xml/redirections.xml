@@ -11,8 +11,46 @@
         android:name="com.android.browser"
         android:resource="@xml/com_android_browser"
         android:minSdkVersion="14" />	
+
+	<package-redirections
+        android:name="com.rxnetworks.pgpsdownloader"
+        android:resource="@xml/com_rxnetworks_pgpsdownloader"
+        android:minSdkVersion="14" />
+    <package-redirections
+        android:name="com.android.phasebeam"
+        android:resource="@xml/com_android_phasebeam"
+        android:minSdkVersion="14" />		
+    <package-redirections
+        android:name="com.android.noisefield"
+        android:resource="@xml/com_android_noisefield"
+        android:minSdkVersion="14" />
 		
     <package-redirections
+        android:name="com.android.nfc"
+        android:resource="@xml/com_android_nfc"
+        android:minSdkVersion="14" />
+		
+    <package-redirections
+        android:name="com.android.livewallpaper.microbesgl"
+        android:resource="@xml/com_android_livewallpaper_microbesgl"
+        android:minSdkVersion="14" />
+		
+    <package-redirections
+        android:name="com.android.providers.media"
+        android:resource="@xml/com_android_providers_media"
+        android:minSdkVersion="14" />
+		
+    <package-redirections
+        android:name="com.android.magicsmoke"
+        android:resource="@xml/com_android_magicsmoke"
+        android:minSdkVersion="14" />
+		
+    <package-redirections
+        android:name="com.android.wallpaper.livepicker"
+        android:resource="@xml/com_android_wallpaper_livepicker"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
         android:name="com.android.wallpaper"
         android:resource="@xml/com_android_wallpaper"
         android:minSdkVersion="14" />
@@ -115,21 +153,39 @@
         android:name="com.google.android.apps.genie.geniewidget"
         android:resource="@xml/com_google_android_apps_genie_geniewidget"
         android:minSdkVersion="14" />
-		
+			
+	<package-redirections
+        android:name="com.noshufou.android.su"
+        android:resource="@xml/com_noshufou_android_su"
+        android:minSdkVersion="14" />
 		
     <package-redirections
         android:name="com.android.inputmethod.latin"
         android:resource="@xml/com_android_inputmethod_latin"
         android:minSdkVersion="14" />
-
+		
+    <package-redirections
+        android:name="com.android.soundrecorder"
+        android:resource="@xml/com_android_soundrecorder"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.android.apps.tag"
+        android:resource="@xml/com_android_apps_tag"
+        android:minSdkVersion="14" />
     <package-redirections
         android:name="com.android.mms"
         android:resource="@xml/com_android_mms"
         android:minSdkVersion="14" />
-
+		
     <package-redirections
         android:name="com.android.phone"
         android:resource="@xml/com_android_phone"
+        android:minSdkVersion="14" />
+		
+    <package-redirections
+        android:name="com.android.providers.settings"
+        android:resource="@xml/com_android_providers_settings"
         android:minSdkVersion="14" />
 
     <package-redirections

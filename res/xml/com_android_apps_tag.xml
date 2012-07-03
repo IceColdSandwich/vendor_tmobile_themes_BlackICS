@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_nfc">@drawable/com_android_apps_tag_ic_launcher_nfc</item>
+</resource-redirections>

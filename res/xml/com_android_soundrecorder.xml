@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_soundrecorder">@drawable/com_android_soundrecorder_ic_launcher_soundrecorder</item>
+
+</resource-redirections>

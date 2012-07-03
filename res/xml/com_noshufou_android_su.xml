@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/com_noshufou_android_su_icon</item>
+	<item name="drawable/sym_def_app_icon">@drawable/frameworks_res_sym_def_app_icon</item>
+	<item name="drawable/timepicker_down_disabled">@drawable/frameworks_res_numberpicker_down_disabled</item>
+	<item name="drawable/timepicker_down_disabled_focused">@drawable/frameworks_res_numberpicker_down_disabled_focused</item>
+	<item name="drawable/timepicker_down_normal">@drawable/frameworks_res_numberpicker_down_normal</item>
+	<item name="drawable/timepicker_down_pressed">@drawable/frameworks_res_numberpicker_down_pressed</item>
+	<item name="drawable/timepicker_down_selected">@drawable/frameworks_res_numberpicker_down_selected</item>
+	<item name="drawable/timepicker_input_disabled">@drawable/frameworks_res_numberpicker_input_disabled</item>
+	<item name="drawable/timepicker_input_normal">@drawable/frameworks_res_numberpicker_input_normal</item>
+	<item name="drawable/timepicker_input_pressed">@drawable/frameworks_res_numberpicker_input_pressed</item>
+	<item name="drawable/timepicker_input_selected">@drawable/frameworks_res_numberpicker_input_selected</item>
+	<item name="drawable/timepicker_up_disabled">@drawable/frameworks_res_numberpicker_up_disabled</item>
+	<item name="drawable/timepicker_up_disabled_focused">@drawable/frameworks_res_numberpicker_up_disabled_focused</item>
+	<item name="drawable/timepicker_up_normal">@drawable/frameworks_res_numberpicker_up_normal</item>
+	<item name="drawable/timepicker_up_pressed">@drawable/frameworks_res_numberpicker_up_pressed</item>
+	<item name="drawable/timepicker_up_selected">@drawable/frameworks_res_numberpicker_up_selected</item>
+
+</resource-redirections>

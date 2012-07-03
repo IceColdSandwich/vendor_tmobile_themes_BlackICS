@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/ic_search_category_music_album">@drawable/com_android_providers_media_ic_search_category_music_album</item>
+	<item name="drawable/ic_search_category_music_artist">@drawable/com_android_providers_media_ic_search_category_music_artist</item>
+	<item name="drawable/ic_search_category_music_song">@drawable/com_android_providers_media_ic_search_category_music_song</item>
+</resource-redirections>

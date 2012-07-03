@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/icon">@drawable/frameworks_res_sym_def_app_icon</item>
+</resource-redirections>
