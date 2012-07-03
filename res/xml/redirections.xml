@@ -39,6 +39,25 @@
         android:name="com.android.providers.media"
         android:resource="@xml/com_android_providers_media"
         android:minSdkVersion="14" />
+
+	<package-redirections
+        android:name="com.aokp.unicornporn"
+        android:resource="@xml/com_aokp_unicornporn"
+        android:minSdkVersion="14" />
+	<package-redirections
+        android:name="com.tmobile.themechooser"
+        android:resource="@xml/com_tmobile_themechooser"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.android.musicvis"
+        android:resource="@xml/com_android_musicvis"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.android.videoeditor"
+        android:resource="@xml/com_android_videoeditor"
+        android:minSdkVersion="14" />
 		
     <package-redirections
         android:name="com.android.magicsmoke"
@@ -49,7 +68,11 @@
         android:name="com.android.wallpaper.livepicker"
         android:resource="@xml/com_android_wallpaper_livepicker"
         android:minSdkVersion="14" />
-		
+	
+	<package-redirections
+        android:name="com.android.providers.telephony"
+        android:resource="@xml/com_android_providers_telephony"
+        android:minSdkVersion="14" />
 	<package-redirections
         android:name="com.android.wallpaper"
         android:resource="@xml/com_android_wallpaper"

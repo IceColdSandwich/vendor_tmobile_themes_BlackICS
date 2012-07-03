@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_moviestudio">@drawable/com_android_videoeditor_ic_launcher_moviestudio</item>
+</resource-redirections>
