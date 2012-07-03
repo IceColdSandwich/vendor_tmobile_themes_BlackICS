@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="TextAppearance.StatusBar.Title" parent="@android:style/TextAppearance.Holo.Widget.Button">
@@ -36,6 +35,6 @@
         <item name="android:textSize">12.0dip</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">#ffffffff</item>
-		</style>
+	</style>
 	<style name="Black" parent="@android:style/Theme" />
 </resources>
