@@ -10,4 +10,7 @@
 	<item name="drawable/appwidget_inner_pressed_c_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_c_holo</item>
 	<item name="drawable/appwidget_inner_pressed_l_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_l_holo</item>
 	<item name="drawable/appwidget_inner_pressed_r_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_inner_pressed_r_holo</item>
+	<item name="drawable/widget_bg">@drawable/com_google_android_apps_genie_geniewidget_widget_bg</item>
+	<item name="drawable/ic_launcher_weather">@drawable/ic_launcher_weather</item>
+	<item name="drawable/ic_launcher_news_weather">@drawable/ic_launcher_news_weather</item>
 </resource-redirections>

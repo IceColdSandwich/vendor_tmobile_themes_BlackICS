@@ -16,7 +16,6 @@
  -->
  
 <resource-redirections>
-    <item name="mipmap/ic_launcher_alarmclock">@mipmap/com_android_deskclock_ic_launcher_alarmclock</item>
-	<item name="mipmap/ic_widget_analog_clock">@mipmap/com_android_deskclock_ic_widget_analog_clock</item>
-	com_android_deskclock_ic_widget_analog_clock
+    <item name="mipmap/ic_launcher_settings">@mipmap/com_android_settings_ic_launcher_settings</item>
+
 </resource-redirections>
