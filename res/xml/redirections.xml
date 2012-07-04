@@ -24,7 +24,7 @@
 		
 	<package-redirections
         android:name="com.cyanogenmod.theme.Achromatic"
-        android:resource="@xml/com_cyanogenmod_theme_Achromatic"
+        android:resource="@xml/com_cyanogenmod_theme_achromatic"
         android:minSdkVersion="14" />
 		
     <package-redirections
