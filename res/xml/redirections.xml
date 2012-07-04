@@ -73,7 +73,7 @@
 
 	<package-redirections
         android:name="com.cr5315.PCB"
-        android:resource="@xml/com_cr5315_PCB"
+        android:resource="@xml/com_cr5315_pcb"
         android:minSdkVersion="14" />		
 	<package-redirections
         android:name="com.google.android.music"
