@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/camera_crop_holo">@drawable/com_google_android_gallery3d_camera_crop_holo</item>
+	<item name="drawable/preview">@drawable/com_google_android_gallery3d_preview</item>
+	<item name="mipmap/ic_launcher_gallery">@drawable/com_android_gallery_ic_launcher_gallery</item>
+</resource-redirections>

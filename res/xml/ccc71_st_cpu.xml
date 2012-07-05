@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-	<item name="drawable/ic_launcher">@drawable/com_cr5315_pcb_ic_launcher</item>
+	<item name="drawable/icon">@drawable/ccc71_st_cpu_icon</item>
 </resource-redirections>

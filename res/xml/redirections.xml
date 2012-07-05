@@ -18,6 +18,31 @@
         android:minSdkVersion="14" />
 		
 	<package-redirections
+        android:name="com.anddoes.launcher"
+        android:resource="@xml/com_anddoes_launcher"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.anddoes.launcher.pro"
+        android:resource="@xml/com_anddoes_launcher_pro"
+        android:minSdkVersion="14" />
+	<package-redirections
+        android:name="com.alensw.PicFolder"
+        android:resource="@xml/com_alensw_PicFolder"
+        android:minSdkVersion="14" />
+	<package-redirections
+        android:name="ccc71.st.cpu"
+        android:resource="@xml/ccc71_st_cpu"
+        android:minSdkVersion="14" />
+	<package-redirections
+        android:name="ccc71.bmw.pro"
+        android:resource="@xml/ccc71_bmw_pro"
+        android:minSdkVersion="14" />
+	<package-redirections
+        android:name="com.google.android.gallery3d"
+        android:resource="@xml/com_google_android_gallery3d"
+        android:minSdkVersion="14" />
+	<package-redirections
         android:name="com.google.android.syncadapters.calendar"
         android:resource="@xml/com_google_android_syncadapters_calendar"
         android:minSdkVersion="14" />
@@ -161,6 +186,10 @@
         android:resource="@xml/com_android_musicfx"
         android:minSdkVersion="14" />
 		
+	<package-redirections
+        android:name="com.google.android.talk"
+        android:resource="@xml/com_google_android_talk"
+        android:minSdkVersion="14" />
 	<package-redirections
         android:name="com.google.android.gm"
         android:resource="@xml/com_google_android_gm"

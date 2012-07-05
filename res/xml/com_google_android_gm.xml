@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="drawable/stat_notify_email">@drawable/gmail_motion_icon</item>
+	<item name="drawable/chip_background_selected">@drawable/com_google_android_gm_chip_background_selected</item>
+	<item name="drawable/chip_delete">@drawable/com_google_android_gm_chip_delete</item>
+	<item name="drawable/header_convo_view_sender_bg_holo">@drawable/com_google_android_gm_header_convo_view_sender_bg_holo</item>
+	<item name="drawable/list_activated_holo">@drawable/com_google_android_gm_list_activated_holo</item>
+	<item name="drawable/list_div_top_btm_gmail_widget_holo">@drawable/com_google_android_gm_list_div_top_btm_gmail_widget_holo</item>
+	<item name="drawable/list_focused_holo">@drawable/com_google_android_gm_list_focused_holo</item>
+	<item name="drawable/list_pressed_holo">@drawable/com_google_android_gm_list_pressed_holo</item>
+	<item name="drawable/list_selected_holo">@drawable/com_google_android_gm_list_selected_holo</item>
 </resource-redirections>
