@@ -16,7 +16,15 @@
         android:name="com.google.android.googlequicksearchbox"
         android:resource="@xml/com_google_android_googlequicksearchbox"
         android:minSdkVersion="14" />
-		
+
+	<package-redirections
+        android:name="com.google.android.apps.translate"
+        android:resource="@xml/com_google_android_apps_translate"
+        android:minSdkVersion="14" />
+	<package-redirections
+        android:name="com.android.chrome"
+        android:resource="@xml/com_android_chrome"
+        android:minSdkVersion="14" />
 	<package-redirections
         android:name="com.anddoes.launcher"
         android:resource="@xml/com_anddoes_launcher"
