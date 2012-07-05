@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="drawable/icon">@drawable/com_cyanogenmod_theme_achromatic_icon</item>
-
 </resource-redirections>
