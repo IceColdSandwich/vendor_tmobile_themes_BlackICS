@@ -36,7 +36,7 @@
         android:minSdkVersion="14" />
 	<package-redirections
         android:name="com.alensw.PicFolder"
-        android:resource="@xml/com_alensw_PicFolder"
+        android:resource="@xml/com_alensw_picFolder"
         android:minSdkVersion="14" />
 	<package-redirections
         android:name="ccc71.st.cpu"
