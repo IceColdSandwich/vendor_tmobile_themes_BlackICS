@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/icon">@drawable/com_estrongs_android_taskmanager_icon</item>
+	<item name="drawable/default_app_icon">@drawable/com_anddoes_launcher_ic_launcher_application</item>
+	<item name="drawable/widget_bg_clean">@drawable/com_estrongs_android_taskmanager_widget_bg_clean</item>
+	<item name="drawable/widget_bg_clean1">@drawable/com_estrongs_android_taskmanager_widget_bg_clean1</item>
+	<item name="drawable/widget_bg_clean2">@drawable/com_estrongs_android_taskmanager_widget_bg_clean2</item>
+	<item name="drawable/widget_bg_slum">@drawable/com_estrongs_android_taskmanager_widget_bg_slum</item>
+	<item name="drawable/widget_bg_slum1">@drawable/com_estrongs_android_taskmanager_widget_bg_slum1</item>
+	<item name="drawable/widget_bg_slum2">@drawable/com_estrongs_android_taskmanager_widget_bg_slum2</item>
+</resource-redirections>

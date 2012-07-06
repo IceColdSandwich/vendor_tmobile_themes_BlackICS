@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/ic_launcher">@drawable/com_boombuler_system_appwidgetpicker_icon</item>
+	<item name="drawable/icon">@drawable/com_asksven_betterbatterystats_icon</item>
+	<item name="drawable/icon_kb">@drawable/com_asksven_betterbatterystats_icon_kb</item>
+	<item name="drawable/icon_notext">@drawable/com_asksven_betterbatterystats_icon_notext</item>
+	<item name="drawable/icon_text">@drawable/com_asksven_betterbatterystats_icon_text</item>
+</resource-redirections>

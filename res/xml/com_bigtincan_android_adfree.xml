@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/icon">@drawable/com_bigtincan_android_adfree_icon</item>
+	<item name="drawable/backgroundimage">@drawable/com_bigtincan_android_adfree_backgroundimage</item>
+</resource-redirections>

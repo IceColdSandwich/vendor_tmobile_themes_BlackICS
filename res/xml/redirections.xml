@@ -8,6 +8,51 @@
         android:minSdkVersion="14" />
 
 	<package-redirections
+        android:name="com.dropbox.android"
+        android:resource="@xml/com_dropbox_android"
+        android:minSdkVersion="14" />
+
+	<package-redirections
+        android:name="com.koushikdutta.rommanager"
+        android:resource="@xml/com_koushikdutta_rommanager"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.estrongs.android.taskmanager"
+        android:resource="@xml/com_estrongs_android_taskmanager"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.estrongs.android.pop"
+        android:resource="@xml/com_estrongs_android_pop"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.asksven.betterbatterystats"
+        android:resource="@xml/com_asksven_betterbatterystats"
+        android:minSdkVersion="14" />
+
+	<package-redirections
+        android:name="com.bvalosek.cpuspy"
+        android:resource="@xml/com_bvalosek_cpuspy"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.bigtincan.android.adfree"
+        android:resource="@xml/com_bigtincan_android_adfree"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.aurorasoftworks.quadrant.ui.professional"
+        android:resource="@xml/com_aurorasoftworks_quadrant_ui_professional"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.antutu.ABenchMark"
+        android:resource="@xml/com_antutu_abenchmark"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
         android:name="com.google.android.syncadapters.contacts"
         android:resource="@xml/com_google_android_syncadapters_contacts"
         android:minSdkVersion="14" />
@@ -21,10 +66,12 @@
         android:name="com.google.android.apps.translate"
         android:resource="@xml/com_google_android_apps_translate"
         android:minSdkVersion="14" />
+		
 	<package-redirections
         android:name="com.android.chrome"
         android:resource="@xml/com_android_chrome"
         android:minSdkVersion="14" />
+		
 	<package-redirections
         android:name="com.anddoes.launcher"
         android:resource="@xml/com_anddoes_launcher"
@@ -34,22 +81,27 @@
         android:name="com.anddoes.launcher.pro"
         android:resource="@xml/com_anddoes_launcher_pro"
         android:minSdkVersion="14" />
+		
 	<package-redirections
         android:name="com.alensw.PicFolder"
         android:resource="@xml/com_alensw_picfolder"
         android:minSdkVersion="14" />
+		
 	<package-redirections
         android:name="ccc71.st.cpu"
         android:resource="@xml/ccc71_st_cpu"
         android:minSdkVersion="14" />
+		
 	<package-redirections
         android:name="ccc71.bmw.pro"
         android:resource="@xml/ccc71_bmw_pro"
         android:minSdkVersion="14" />
+		
 	<package-redirections
         android:name="com.google.android.gallery3d"
         android:resource="@xml/com_google_android_gallery3d"
         android:minSdkVersion="14" />
+		
 	<package-redirections
         android:name="com.google.android.syncadapters.calendar"
         android:resource="@xml/com_google_android_syncadapters_calendar"
@@ -99,6 +151,7 @@
         android:name="com.aokp.unicornporn"
         android:resource="@xml/com_aokp_unicornporn"
         android:minSdkVersion="14" />
+		
 	<package-redirections
         android:name="com.tmobile.themechooser"
         android:resource="@xml/com_tmobile_themechooser"
@@ -108,10 +161,12 @@
         android:name="com.cr5315.PCB"
         android:resource="@xml/com_cr5315_pcb"
         android:minSdkVersion="14" />		
+		
 	<package-redirections
         android:name="com.google.android.music"
         android:resource="@xml/com_google_android_music"
         android:minSdkVersion="14" />
+		
 	<package-redirections
         android:name="com.android.musicvis"
         android:resource="@xml/com_android_musicvis"
@@ -131,6 +186,7 @@
         android:name="com.android.facelock"
         android:resource="@xml/com_android_facelock"
         android:minSdkVersion="14" />
+		
     <package-redirections
         android:name="com.android.wallpaper.livepicker"
         android:resource="@xml/com_android_wallpaper_livepicker"
@@ -140,6 +196,7 @@
         android:name="com.android.providers.telephony"
         android:resource="@xml/com_android_providers_telephony"
         android:minSdkVersion="14" />
+		
 	<package-redirections
         android:name="com.android.wallpaper"
         android:resource="@xml/com_android_wallpaper"
@@ -189,6 +246,7 @@
         android:name="com.aokp.aokptips"
         android:resource="@xml/com_aokp_aokptips"
         android:minSdkVersion="14" />
+		
 	<package-redirections
         android:name="com.android.musicfx"
         android:resource="@xml/com_android_musicfx"
@@ -198,6 +256,7 @@
         android:name="com.google.android.talk"
         android:resource="@xml/com_google_android_talk"
         android:minSdkVersion="14" />
+		
 	<package-redirections
         android:name="com.google.android.gm"
         android:resource="@xml/com_google_android_gm"
@@ -267,6 +326,7 @@
         android:name="com.android.apps.tag"
         android:resource="@xml/com_android_apps_tag"
         android:minSdkVersion="14" />
+		
     <package-redirections
         android:name="com.android.mms"
         android:resource="@xml/com_android_mms"

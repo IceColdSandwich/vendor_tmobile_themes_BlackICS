@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/icon">@drawable/com_antutu_abenchmark_icon</item>
+	<item name="drawable/splash_logo">@drawable/com_antutu_abenchmark_splash_logo</item>
+	
+</resource-redirections>

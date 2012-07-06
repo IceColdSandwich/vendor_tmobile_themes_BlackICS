@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/tether">@drawable/com_koushikdutta_rommanager_tether</item>
+	<item name="drawable/desksms">@drawable/com_koushikdutta_rommanager_desksms</item>
+	<item name="drawable/icon">@drawable/com_koushikdutta_rommanager_icon</item>
+	<item name="drawable/burrito">@drawable/com_koushikdutta_rommanager_burrito</item>
+	<item name="drawable/clockwork512">@drawable/com_koushikdutta_rommanager_clockwork512</item>
+	<item name="drawable/desksms_feat_v5">@drawable/com_koushikdutta_rommanager_desksms_feat_v5</item>
+	<item name="drawable/google_icon">@drawable/com_koushikdutta_rommanager_google_icon</item>
+	<item name="drawable/no_icon">@drawable/com_koushikdutta_rommanager_no_icon</item>
+	<item name="drawable/progress">@drawable/com_koushikdutta_rommanager_progress</item>
+</resource-redirections>
