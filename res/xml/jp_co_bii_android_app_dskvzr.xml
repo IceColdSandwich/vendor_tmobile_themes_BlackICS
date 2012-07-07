@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+ 
+<resource-redirections>
+	<item name="drawable/icon">@drawable/jp_co_bii_android_app_dskvzr_icon</item>
+	<item name="drawable/zaa0004_01erroricon">@drawable/jp_co_bii_android_app_dskvzr_zaa0004_01erroricon</item>
+	<item name="drawable/zaa0004_02noconfig">@drawable/jp_co_bii_android_app_dskvzr_zaa0004_02noconfig</item>
+	<item name="drawable/zaa0005_06_noexec">@drawable/jp_co_bii_android_app_dskvzr_zaa0005_06_noexec</item>
+	<item name="drawable/zaa0005_07_hourglass">@drawable/jp_co_bii_android_app_dskvzr_zaa0005_07_hourglass</item>
+	<item name="drawable/zaa0005__pressed_application_background_green">@drawable/jp_co_bii_android_app_dskvzr_zaa0005__pressed_application_background_green</item>
+	<item name="drawable/zaa0005_10_focused_application_background_green">@drawable/jp_co_bii_android_app_dskvzr_zaa0005_10_focused_application_background_green</item>
+	<item name="drawable/zaa0006_01_icon72slash">@drawable/jp_co_bii_android_app_dskvzr_zaa0006_01_icon72slash</item>
+	<item name="drawable/zaa0007_a1x1">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a1x1</item>
+	<item name="drawable/zaa0007_a1x2">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a1x2</item>
+	<item name="drawable/zaa0007_a1x3">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a1x3</item>
+	<item name="drawable/zaa0007_a1x4">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a1x4</item>
+	<item name="drawable/zaa0007_a2x1">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a2x1</item>
+	<item name="drawable/zaa0007_a2x2">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a2x2</item>
+	<item name="drawable/zaa0007_a2x3">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a2x3</item>
+	<item name="drawable/zaa0007_a2x4">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a2x4</item>
+	<item name="drawable/zaa0007_a3x1">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a3x1</item>
+	<item name="drawable/zaa0007_a3x2">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a3x2</item>
+	<item name="drawable/zaa0007_a3x3">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a3x3</item>
+	<item name="drawable/zaa0007_a3x4">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a3x4</item>
+	<item name="drawable/zaa0007_a4x1">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a4x1</item>
+	<item name="drawable/zaa0007_a4x2">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a4x2</item>
+	<item name="drawable/zaa0007_a4x3">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a4x3</item>
+	<item name="drawable/zaa0007_a4x4">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_a4x4</item>
+	<item name="drawable/zaa0007_bg">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_bg</item>
+	<item name="drawable/zaa0007_s1x1">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_s1x1</item>
+	<item name="drawable/zaa0007_ss">@drawable/jp_co_bii_android_app_dskvzr_zaa0007_ss</item>
+	<item name="drawable/zaa0008_conf">@drawable/jp_co_bii_android_app_dskvzr_zaa0008_conf</item>
+</resource-redirections>
