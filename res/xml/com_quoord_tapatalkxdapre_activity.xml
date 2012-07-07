@@ -7,5 +7,6 @@
 	<item name="drawable/tab_select">@drawable/com_quoord_tapatalkxdapre_activity_tab_select</item>
 	<item name="drawable/stat_sms">@drawable/com_quoord_tapatalkxdapre_activity_stat_sms</item>
 	<item name="drawable/shortcuticon">@drawable/com_quoord_tapatalkxdapre_activity_shortcuticon</item>
+	<item name="drawable/dark_header">@drawable/com_quoord_tapatalkxdapre_activity_dark_header</item>
 	
 </resource-redirections>
