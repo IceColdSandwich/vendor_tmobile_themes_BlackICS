@@ -9,7 +9,7 @@
     <item name="drawable/dial_num_2_wht">@drawable/com_android_phone_dial_num_2_wht</item>
     <item name="drawable/dial_num_6_wht">@drawable/com_android_phone_dial_num_6_wht</item>
     <item name="drawable/dial_num_3_wht">@drawable/com_android_phone_dial_num_3_wht</item>
-    <item name="drawable/dial_num_7_wht">@drawable/com_android_phone_dial_num_7_wht</item>
+    	<item name="drawable/dial_num_7_wht">@drawable/com_android_phone_dial_num_7_wht</item>
 	<item name="drawable/ic_active_state_dialer_holo_dark">@drawable/com_android_phone_ic_active_state_dialer_holo_dark</item>
 	<item name="drawable/ic_incoming_call_bluetooth">@drawable/com_android_phone_ic_incoming_call_bluetooth</item>
 	<item name="drawable/ic_launcher_phone">@drawable/com_android_phone_ic_launcher_phone</item>
