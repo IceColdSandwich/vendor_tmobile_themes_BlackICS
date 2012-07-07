@@ -87,11 +87,6 @@
         android:minSdkVersion="14" />
 
 	<package-redirections
-        android:name="com.touchtype.swiftkey"
-        android:resource="@xml/com_touchtype_swiftkey"
-        android:minSdkVersion="14" />
-
-	<package-redirections
         android:name="com.ttxapps.dropsync.pro"
         android:resource="@xml/com_ttxapps_dropsync_pro"
         android:minSdkVersion="14" />
