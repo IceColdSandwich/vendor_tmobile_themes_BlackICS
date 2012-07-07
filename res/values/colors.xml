@@ -33,4 +33,11 @@
     <color name="group_button_dialog_focused_holo_light">#46222222</color>
     <color name="legacy_pressed_highlight">#ff808080</color>
     <color name="legacy_selected_highlight">#ff808080</color>
+	<color name="xda_background">#ff000000</color>
+    <color name="xda_font">#ffffffff</color>
+	<color name="voice_color_widget_text_unread">#ffffffff</color>
+    <color name="voice_color_widget_text_read">#ff666666</color>
+    <color name="voice_color_widget_background_unread">#cc222222</color>
+    <color name="voice_color_widget_background_read">#cc000000</color>
+    <color name="voice_color_widget_date_text">#ffffffff</color>
 </resources>

@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="drawable/splash">@drawable/splash1</item>
+	<item name="color/dark_background">@color/xda_background</item>
+    <item name="color/orange">@color/xda_font</item>
+	<item name="drawable/appicon">@drawable/com_quoord_tapatalkxdapre_activity_appicon</item>
+	<item name="drawable/tab_select">@drawable/com_quoord_tapatalkxdapre_activity_tab_select</item>
+	<item name="drawable/stat_sms">@drawable/com_quoord_tapatalkxdapre_activity_stat_sms</item>
+	<item name="drawable/shortcuticon">@drawable/com_quoord_tapatalkxdapre_activity_shortcuticon</item>
+	
 </resource-redirections>

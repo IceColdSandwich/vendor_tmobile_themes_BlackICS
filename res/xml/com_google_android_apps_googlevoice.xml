@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/dialing_graphic">@drawable/com_google_android_apps_googlevoice_dialing_graphic</item>
+	<item name="drawable/droid_with_speech_bubble">@drawable/com_google_android_apps_googlevoice_droid_with_speech_bubble</item>
+	<item name="drawable/first_use_icon">@drawable/com_google_android_apps_googlevoice_first_use_icon</item>
+	<item name="drawable/gv_title_bar_icon">@drawable/com_google_android_apps_googlevoice_gv_title_bar_icon</item>
+	<item name="drawable/gv_toggle_droid_icon">@drawable/com_google_android_apps_googlevoice_gv_toggle_droid_icon</item>
+	<item name="drawable/icon">@drawable/com_google_android_apps_googlevoice_icon</item>
+	<item name="drawable/ic_btn_back">@drawable/com_google_android_apps_googlevoice_ic_btn_back</item>
+	<item name="drawable/ic_btn_next">@drawable/com_google_android_apps_googlevoice_ic_btn_next</item>
+	<item name="drawable/play_pause_button_focus">@drawable/com_google_android_apps_googlevoice_play_pause_button_focus</item>
+	<item name="drawable/play_pause_button_selected">@drawable/com_google_android_apps_googlevoice_play_pause_button_selected</item>
+	<item name="drawable/widget_inbox_background">@drawable/com_google_android_apps_googlevoice_widget_inbox_background</item>
+	<item name="drawable/widget_integrated_background">@drawable/com_google_android_apps_googlevoice_widget_integrated_background</item>
+	<item name="drawable/widget_integrated_header_bg_holo">@drawable/com_google_android_apps_googlevoice_widget_integrated_header_bg_holo</item>
+	<item name="drawable/widget_settings_inbox">@drawable/com_google_android_apps_googlevoice_widget_settings_inbox</item>
+	<item name="drawable/widget_settings_voicemail_icon_for_avatar">@drawable/com_google_android_apps_googlevoice_widget_settings_voicemail_icon_for_avatar</item>
+    <item name="color/color_widget_text_unread">@color/voice_color_widget_text_unread</item>
+    <item name="color/color_widget_text_read">@color/voice_color_widget_text_read</item>
+    <item name="color/color_widget_background_unread">@color/voice_color_widget_background_unread</item>
+    <item name="color/color_widget_background_read">@color/voice_color_widget_background_read</item>
+    <item name="color/color_widget_date_text">@color/voice_color_widget_date_text</item>
+</resource-redirections>

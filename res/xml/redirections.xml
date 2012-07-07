@@ -8,6 +8,11 @@
         android:minSdkVersion="14" />
 
 	<package-redirections
+        android:name="com.eclipsim.gpsstatus2"
+        android:resource="@xml/com_eclipsim_gpsstatus2"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
         android:name="com.dropbox.android"
         android:resource="@xml/com_dropbox_android"
         android:minSdkVersion="14" />
@@ -46,8 +51,18 @@
         android:name="com.aurorasoftworks.quadrant.ui.professional"
         android:resource="@xml/com_aurorasoftworks_quadrant_ui_professional"
         android:minSdkVersion="14" />
+
+	<package-redirections 
+        android:name="com.keramidas.TitaniumBackupPro"
+        android:resource="@xml/com_keramidas_titaniumbackuppro"
+        android:minSdkVersion="14" />
 		
-	<package-redirections
+	<package-redirections 
+        android:name="com.keramidas.TitaniumBackup"
+        android:resource="@xml/com_keramidas_titaniumbackup"
+        android:minSdkVersion="14" />
+		
+	<package-redirections 
         android:name="com.antutu.ABenchMark"
         android:resource="@xml/com_antutu_abenchmark"
         android:minSdkVersion="14" />
@@ -62,6 +77,11 @@
         android:resource="@xml/com_google_android_googlequicksearchbox"
         android:minSdkVersion="14" />
 
+	<package-redirections
+        android:name="com.google.android.apps.googlevoice"
+        android:resource="@xml/com_google_android_apps_googlevoice"
+        android:minSdkVersion="14" />
+		
 	<package-redirections
         android:name="com.google.android.apps.translate"
         android:resource="@xml/com_google_android_apps_translate"
@@ -105,11 +125,6 @@
 	<package-redirections
         android:name="com.google.android.syncadapters.calendar"
         android:resource="@xml/com_google_android_syncadapters_calendar"
-        android:minSdkVersion="14" />
-		
-	<package-redirections
-        android:name="com.cyanogenmod.theme.Achromatic"
-        android:resource="@xml/com_cyanogenmod_theme_achromatic"
         android:minSdkVersion="14" />
 		
     <package-redirections
