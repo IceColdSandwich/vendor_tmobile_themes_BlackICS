@@ -81,6 +81,21 @@
         android:name="com.google.android.apps.googlevoice"
         android:resource="@xml/com_google_android_apps_googlevoice"
         android:minSdkVersion="14" />
+
+	<package-redirections
+        android:name="com.touchtype.swiftkey"
+        android:resource="@xml/com_touchtype_swiftkey"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.hostj2me.stumblr.mobile"
+        android:resource="@xml/com_hostj2me_stumblr_mobile"
+        android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.google.android.apps.plus"
+        android:resource="@xml/com_google_android_apps_plus"
+        android:minSdkVersion="14" />
 		
 	<package-redirections
         android:name="com.google.android.apps.translate"
