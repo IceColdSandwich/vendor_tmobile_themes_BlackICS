@@ -1259,6 +1259,11 @@
 	<item name="drawable/weather_na">@drawable/com_android_systemui_weather_na</item>
     <item name="color/highlighted_text_holo_dark">@color/TUN_maincolor</item>
     <item name="color/highlighted_text_holo_light">@color/TUN_maincolor</item>
-
-	
+	<item name="drawable/progress_horizontal_holo_dark">@drawable/frameworks_res_progress_horizontal_holo_dark</item>
+	<item name="drawable/progress_horizontal_holo_light">@drawable/frameworks_res_progress_horizontal_holo_light</item>
+	<item name="drawable/progress_indeterminate_horizontal_holo">@drawable/frameworks_res_progress_indeterminate_horizontal_holo</item>
+	<item name="drawable/scrubber_control_selector_holo">@drawable/frameworks_res_scrubber_control_selector_holo</item>
+	<item name="drawable/progress_horizontal">@drawable/frameworks_res_progress_horizontal</item>
+	<item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/scrubber_progress_horizontal_holo_light</item>
+	<item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/scrubber_progress_horizontal_holo_dark</item>
 </resource-redirections>
