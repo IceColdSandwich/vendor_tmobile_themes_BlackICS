@@ -336,6 +336,16 @@
         android:resource="@xml/com_android_deskclock"
         android:minSdkVersion="14" />
 
+<package-redirections 
+        android:name="ext.recovery.control"
+        android:resource="@xml/ext_recovery_control"
+        android:minSdkVersion="14" />
+		
+	<package-redirections 
+        android:name="dev.sci.systune"
+        android:resource="@xml/dev_sci_systune"
+        android:minSdkVersion="14" />
+		
     <package-redirections 
         android:name="com.android.email"
         android:resource="@xml/com_android_email"
