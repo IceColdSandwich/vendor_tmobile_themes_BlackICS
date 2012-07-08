@@ -59,7 +59,7 @@
 		
 	<package-redirections 
         android:name="com.keramidas.TitaniumBackup"
-        android:resource="@xml/com_keramidas_TitaniumBackup"
+        android:resource="@xml/com_keramidas_titaniumbackup"
         android:minSdkVersion="14" />
 		
 	<package-redirections 
