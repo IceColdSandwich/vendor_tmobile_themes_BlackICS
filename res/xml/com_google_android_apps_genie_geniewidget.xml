@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-    <item name="color/tab_bottom_border_active">@color/tab_bottom_border_active</item>
 	<item name="drawable/appwidget_bg_focused_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_bg_focused_holo</item>
 	<item name="drawable/appwidget_bg_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_bg_holo</item>
 	<item name="drawable/appwidget_bg_pressed_holo">@drawable/com_google_android_apps_genie_geniewidget_appwidget_bg_pressed_holo</item>
@@ -13,4 +12,10 @@
 	<item name="drawable/widget_bg">@drawable/com_google_android_apps_genie_geniewidget_widget_bg</item>
 	<item name="drawable/ic_launcher_weather">@drawable/ic_launcher_weather</item>
 	<item name="drawable/ic_launcher_news_weather">@drawable/ic_launcher_news_weather</item>
+	<item name="color/tab_background">@color/tab_background</item>
+    <item name="color/tab_bottom_border">@color/tab_bottom_border</item>
+    <item name="color/tab_bottom_border_active">@color/tab_bottom_border_active</item>
+    <item name="color/tab_separator">@color/tab_separator</item>
+    <item name="color/holo_green_dark">@color/holo_green_dark</item>
+	<item name="drawable/loadingbar">@drawable/com_google_android_apps_genie_geniewidget_loadingbar</item>
 </resource-redirections>
