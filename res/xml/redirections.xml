@@ -61,10 +61,14 @@
         android:name="com.keramidas.TitaniumBackup"
         android:resource="@xml/com_keramidas_titaniumbackup"
         android:minSdkVersion="14" />
-		
+
+	<package-redirections 
+        android:name="pixlr.OMatic"
+        android:resource="@xml/pixlr_OMatic"
+        android:minSdkVersion="14" />
 	<package-redirections 
         android:name="com.antutu.ABenchMark"
-        android:resource="@xml/com_antutu_abenchmark"
+        android:resource="@xml/com_antutu_ABenchMark"
         android:minSdkVersion="14" />
 		
 	<package-redirections
@@ -128,7 +132,7 @@
 		
 	<package-redirections
         android:name="com.alensw.PicFolder"
-        android:resource="@xml/com_alensw_picfolder"
+        android:resource="@xml/com_alensw_PicFolder"
         android:minSdkVersion="14" />
 		
 	<package-redirections
