@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/background_hdpi">@drawable/pixlr_OMatic_background_hdpi</item>
+	<item name="drawable/ic_launcher">@drawable/com_boombuler_system_appwidgetpicker_icon</item>
+	<item name="drawable/main_bookmark_hdpi">@drawable/pixlr_OMatic_main_bookmark_hdpi</item>
+	<item name="drawable/main_bookmark">@drawable/pixlr_OMatic_main_bookmark</item>
+</resource-redirections>
