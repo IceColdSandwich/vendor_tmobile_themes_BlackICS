@@ -53,22 +53,22 @@
         android:minSdkVersion="14" />
 
 	<package-redirections 
-        android:name="com.keramidas.TitaniumBackupPro"
+        android:name="com.keramidas.titaniumbackuppro"
         android:resource="@xml/com_keramidas_titaniumbackuppro"
         android:minSdkVersion="14" />
 		
 	<package-redirections 
-        android:name="com.keramidas.TitaniumBackup"
+        android:name="com.keramidas.titaniumbackup"
         android:resource="@xml/com_keramidas_titaniumbackup"
         android:minSdkVersion="14" />
 
 	<package-redirections 
-        android:name="pixlr.OMatic"
-        android:resource="@xml/pixlr_OMatic"
+        android:name="pixlr.omatic"
+        android:resource="@xml/pixlr_omatic"
         android:minSdkVersion="14" />
 	<package-redirections 
-        android:name="com.antutu.ABenchMark"
-        android:resource="@xml/com_antutu_ABenchMark"
+        android:name="com.antutu.abenchmark"
+        android:resource="@xml/com_antutu_abenchmark"
         android:minSdkVersion="14" />
 		
 	<package-redirections
@@ -131,8 +131,8 @@
         android:minSdkVersion="14" />
 		
 	<package-redirections
-        android:name="com.alensw.PicFolder"
-        android:resource="@xml/com_alensw_PicFolder"
+        android:name="com.alensw.picfolder"
+        android:resource="@xml/com_alensw_picfolder"
         android:minSdkVersion="14" />
 		
 	<package-redirections
@@ -201,7 +201,7 @@
         android:minSdkVersion="14" />
 
 	<package-redirections
-        android:name="com.cr5315.PCB"
+        android:name="com.cr5315.pcb"
         android:resource="@xml/com_cr5315_pcb"
         android:minSdkVersion="14" />		
 		
