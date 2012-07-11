@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/gplus64">@drawable/ext_recovery_control_gplus64</item>
+	<item name="drawable/twitter_64">@drawable/ext_recovery_control_twitter_64</item>
+	<item name="drawable/icon">@drawable/ext_recovery_control_icon</item>
+	<item name="drawable/logo">@drawable/ext_recovery_control_logo</item>
+	<item name="drawable/launcher">@drawable/ext_recovery_control_launcher</item>
+	<item name="drawable/logo_farbe">@drawable/ext_recovery_control_logo_farbe</item>
+
+</resource-redirections>

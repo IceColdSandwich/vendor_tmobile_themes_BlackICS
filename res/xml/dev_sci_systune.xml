@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/systune_logo">@drawable/dev_sci_systune_systune_logo</item>
+	<item name="drawable/notification_logo">@drawable/dev_sci_systune_notification_logo</item>
+	<item name="drawable/icon">@drawable/dev_sci_systune_icon</item>
+</resource-redirections>

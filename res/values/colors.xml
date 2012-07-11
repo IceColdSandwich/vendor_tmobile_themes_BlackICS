@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<color name="holo_blue_light">#ffaaaaaa</color>
+    <color name="holo_blue_dark">#ff333333</color>
     <color name="TUN_maincolor">#ffffffff</color>
     <color name="TUN_maincolor_dark">#ffAFAFAF</color>
     <color name="TUN_maincolor_bright">#ffffffff</color>
@@ -40,4 +42,7 @@
     <color name="voice_color_widget_background_unread">#cc222222</color>
     <color name="voice_color_widget_background_read">#cc000000</color>
     <color name="voice_color_widget_date_text">#ffffffff</color>
+	<color name="tab_background">#ff000000</color>
+    <color name="tab_bottom_border">#ff505050</color>
+    <color name="tab_separator">#ff505050</color>
 </resources>
