@@ -18,7 +18,7 @@
     <color name="keyguard_text_color_unlock">#ffffffff</color>
     <color name="keyguard_text_color_soundon">#ffffffff</color>
     <color name="keyguard_text_color_decline">#ffffffff</color>
-	<color name="suggestion_highlight_text">#ffc0c0c0</color>
+	<color name="suggestion_highlight_text">#ff404040</color>
     <color name="perms_dangerous_grp_color">#ffffffff</color>
 	<color name="lockscreen_owner_info">#ffffffff</color>
     <color name="highlighted_text_holo_dark">#66ffffff</color>
